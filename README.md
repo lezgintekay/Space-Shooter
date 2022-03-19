@@ -5,7 +5,7 @@
 ### Installing
 
 
-After downloading the game's build_space file, you can run it from the .exe file and check it. 
+After downloading the files, you can try building the game using Unity. 
 
 
 ### Information
