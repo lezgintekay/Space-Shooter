@@ -1,2 +1,5 @@
 # Space-Shooter
- Space Shooter Unity C#
+
+## This game was created in C# using the Unity game engine.
+
+
